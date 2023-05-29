@@ -39,6 +39,6 @@
         </item>
         <item for="uninstall">DROP TABLE IF EXISTS `?:departments`</item>
         <item for="uninstall">DROP TABLE IF EXISTS `?:department_links`</item>
-        <item for="uninstall">DROP TABLE IF EXISTS `?:department_descriptions</item>
+        <item for="uninstall">DROP TABLE IF EXISTS `?:department_descriptions`</item>
     </queries>
 </addon>
